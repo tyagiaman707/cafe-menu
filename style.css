@@ -1,0 +1,188 @@
+ *{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+} 
+
+body{
+    height: 100vh;
+    width: 100vw;
+   background-image: url('https://th.bing.com/th/id/OIP.wBdQ8i7GuJuhRBGoadOMkgHaE7?pid=ImgDet&w=1400&h=933&rs=1');
+   background-size:cover;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.main{
+    height: 90%;
+    width: 50%;
+    background-color: #DEB887;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-family:Impact,serif;
+    font-weight: bolder;
+    height:12%;
+}
+
+.est{
+    display: flex;
+    justify-content: center;
+    height:6%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.1rem;
+}
+
+.hr_line{
+    height: 0.5%;
+    background-color: brown;
+}
+
+.Coffee{
+    margin-top: 1%;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    font-family:Impact,serif;
+    font-weight: bolder;
+    height:7%;
+}
+
+.coffee_icon_container{
+    height: 5%;
+    display: flex;
+    justify-content: center;
+}
+.coffee_icon{
+    height: 100%;
+}
+
+.menu{
+    height: 23%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.fst{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.snd{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+.trd{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+.frt{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.fft{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+.Coffee1{
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    font-family:Impact,serif;
+    font-weight: bolder;
+    height:7%;
+}
+
+.coffee_icon_container1{
+    height: 5%;
+    display: flex;
+    justify-content: center;
+}
+.coffee_icon1{
+    height: 100%;
+}
+
+.menu1{
+    height: 18.5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.fst1{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.snd1{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+.trd1{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+.frt1{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hr_line1{
+    margin-top: 2%;
+    height: 0.5%;
+    background-color: brown;
+}
+
+.link{
+    height: 6%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.address{
+    height: 6%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
